@@ -25,6 +25,7 @@ the screen is subdivided into 3 displays
   - minus with sign -
   - times with sign x
   - divide with sign /
+  - modulus with sign %
 
 
   The addidtion to this is the dot(.) sign which enable to operate with decimal nuumbers and Equal sign for giving output.
